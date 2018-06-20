@@ -1,0 +1,6 @@
+{
+    
+    "release": "https://github.com/segmentio/analytics-ios/releases/download/3.6.9/Analytics.framework.zip",
+    "frameworks": ["Analytics.framework"]
+    
+}
